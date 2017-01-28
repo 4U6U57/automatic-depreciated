@@ -1,7 +1,9 @@
 # automatic #
 
-Auto grading utility
+![No longer maintained](https://img.shields.io/badge/maintained-no-red.svg)
 
-## DEPRECIATED ##
+Auto grading utility, written in C.
 
-This repo has been archived. Development is still ongoing on [GitHub/legendddhgf/automatic](https://github.com/legendddhgf/automatic).
+## :warning: DEPRECIATED ##
+
+> This repo has been archived. Development is still ongoing on [GitHub/legendddhgf/automatic](https://github.com/legendddhgf/automatic).
